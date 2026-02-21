@@ -351,9 +351,20 @@
       "bankroll": "$2609",
       "ror": "0.0%",
       "sharpe": "1.8"
+    },
+    {
+      "date": "2026-02-21 14:00",
+      "market": "Balance of Power: 2026 Midterms - R Senate, D House",
+      "betSize": "$229",
+      "ev": "+11.6%",
+      "outcome": "Win",
+      "profit": "+$304",
+      "bankroll": "$2913",
+      "ror": "0.5%",
+      "sharpe": "1.9"
     }
   ],
-  "winRate": 72,
+  "winRate": 73,
   "bankrollHistory": [
     500,
     532,
@@ -387,6 +398,7 @@
     2213,
     2320,
     2030,
-    2609
+    2609,
+    2913
   ]
 }
