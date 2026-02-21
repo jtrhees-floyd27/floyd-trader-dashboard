@@ -373,9 +373,20 @@
       "bankroll": "$2794",
       "ror": "0.0%",
       "sharpe": "1.1"
+    },
+    {
+      "date": "2026-02-21 16:30",
+      "market": "edgeX FDV > $1B one day after launch",
+      "betSize": "$365",
+      "ev": "+6.0%",
+      "outcome": "Win",
+      "profit": "+$311",
+      "bankroll": "$3105",
+      "ror": "1.0%",
+      "sharpe": "1.8"
     }
   ],
-  "winRate": 70,
+  "winRate": 71,
   "bankrollHistory": [
     500,
     532,
@@ -411,6 +422,7 @@
     2030,
     2609,
     2913,
-    2794
+    2794,
+    3105
   ]
 }
