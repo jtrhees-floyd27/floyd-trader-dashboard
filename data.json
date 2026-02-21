@@ -307,9 +307,20 @@
       "bankroll": "$1903",
       "ror": "1.0%",
       "sharpe": "1.8"
+    },
+    {
+      "date": "2026-02-21 10:00",
+      "market": "2026 Midterms R Senate D House",
+      "betSize": "$234",
+      "ev": "+7.0%",
+      "outcome": "Win",
+      "profit": "+$310",
+      "bankroll": "$2213",
+      "ror": "1.0%",
+      "sharpe": "1.8"
     }
   ],
-  "winRate": 71,
+  "winRate": 72,
   "bankrollHistory": [
     500,
     532,
@@ -339,6 +350,7 @@
     1350,
     1468,
     1370,
-    1903
+    1903,
+    2213
   ]
 }
