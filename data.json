@@ -626,9 +626,20 @@
       "bankroll": "$7274",
       "ror": "1.0%",
       "sharpe": "1.8"
+    },
+    {
+      "date": "2026-02-22 13:59",
+      "market": "2026 NBA Champion - Oklahoma City Thunder",
+      "betSize": "$391",
+      "ev": "+20.0%",
+      "outcome": "Loss",
+      "profit": "-$391",
+      "bankroll": "$6883",
+      "ror": "0.0%",
+      "sharpe": "0.1"
     }
   ],
-  "winRate": 68,
+  "winRate": 67,
   "bankrollHistory": [
     500,
     532,
@@ -687,6 +698,7 @@
     6116,
     6510,
     5859,
-    7274
+    7274,
+    6883
   ]
 }
