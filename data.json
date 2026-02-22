@@ -417,9 +417,20 @@
       "bankroll": "$5235",
       "ror": "0.0%",
       "sharpe": "1.8"
+    },
+    {
+      "date": "2026-02-21 19:30",
+      "market": "Clarity Act signed into law in 2026",
+      "betSize": "$1047",
+      "ev": "+8.3%",
+      "outcome": "Win",
+      "profit": "+$407",
+      "bankroll": "$5642",
+      "ror": "0.8%",
+      "sharpe": "1.9"
     }
   ],
-  "winRate": 74,
+  "winRate": 75,
   "bankrollHistory": [
     500,
     532,
@@ -459,6 +470,7 @@
     3105,
     3296,
     4311,
-    5235
+    5235,
+    5642
   ]
 }
