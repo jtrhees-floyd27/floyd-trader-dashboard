@@ -516,9 +516,20 @@
       "bankroll": "$8368",
       "ror": "1.2%",
       "sharpe": "1.8"
+    },
+    {
+      "date": "2026-02-22 01:00",
+      "market": "Bitcoin >$100k end 2024",
+      "betSize": "$544",
+      "ev": "+11.1%",
+      "outcome": "Loss",
+      "profit": "-$544",
+      "bankroll": "$7824",
+      "ror": "1.2%",
+      "sharpe": "1.6"
     }
   ],
-  "winRate": 75,
+  "winRate": 73,
   "bankrollHistory": [
     500,
     532,
@@ -567,6 +578,7 @@
     4851,
     5210,
     6511,
-    8368
+    8368,
+    7824
   ]
 }
