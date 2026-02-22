@@ -637,9 +637,20 @@
       "bankroll": "$6883",
       "ror": "0.0%",
       "sharpe": "0.1"
+    },
+    {
+      "date": "2026-02-22 14:00",
+      "market": "Prince Andrew sentenced to prison by Dec 31 2026",
+      "betSize": "$555",
+      "ev": "+10.0%",
+      "outcome": "Win",
+      "profit": "+$906",
+      "bankroll": "$7789",
+      "ror": "0.0%",
+      "sharpe": "0.5"
     }
   ],
-  "winRate": 67,
+  "winRate": 68,
   "bankrollHistory": [
     500,
     532,
@@ -699,6 +710,7 @@
     6510,
     5859,
     7274,
-    6883
+    6883,
+    7789
   ]
 }
