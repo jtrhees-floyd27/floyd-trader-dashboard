@@ -384,9 +384,20 @@
       "bankroll": "$3105",
       "ror": "1.0%",
       "sharpe": "1.8"
+    },
+    {
+      "date": "2026-02-21 17:30",
+      "market": "US Median Home Price >$420k Q1 2026",
+      "betSize": "$311",
+      "ev": "+9.7%",
+      "outcome": "Win",
+      "profit": "+$191",
+      "bankroll": "$3296",
+      "ror": "0.9%",
+      "sharpe": "1.9"
     }
   ],
-  "winRate": 71,
+  "winRate": 72,
   "bankrollHistory": [
     500,
     532,
@@ -423,6 +434,7 @@
     2609,
     2913,
     2794,
-    3105
+    3105,
+    3296
   ]
 }
