@@ -538,9 +538,20 @@
       "bankroll": "$8128",
       "ror": "1.0%",
       "sharpe": "1.8"
+    },
+    {
+      "date": "2026-02-22 02:30",
+      "market": "US Recession in 2026 (Yes)",
+      "betSize": "$235",
+      "ev": "+4.0%",
+      "outcome": "Loss",
+      "profit": "-$235",
+      "bankroll": "$7893",
+      "ror": "0.0%",
+      "sharpe": "1.6"
     }
   ],
-  "winRate": 73,
+  "winRate": 72,
   "bankrollHistory": [
     500,
     532,
@@ -591,6 +602,7 @@
     6511,
     8368,
     7824,
-    8128
+    8128,
+    7893
   ]
 }
