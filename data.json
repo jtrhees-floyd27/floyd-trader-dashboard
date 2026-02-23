@@ -648,9 +648,20 @@
       "bankroll": "$7789",
       "ror": "0.0%",
       "sharpe": "0.5"
+    },
+    {
+      "date": "2026-02-23 10:16",
+      "market": "Bitcoin > $100k by Jun 30 2026",
+      "betSize": "$745",
+      "ev": "+9.0%",
+      "outcome": "Loss",
+      "profit": "$-745",
+      "bankroll": "$7044",
+      "ror": "0.0%",
+      "sharpe": "1.8"
     }
   ],
-  "winRate": 68,
+  "winRate": 67,
   "bankrollHistory": [
     500,
     532,
@@ -711,6 +722,7 @@
     5859,
     7274,
     6883,
-    7789
+    7789,
+    7044
   ]
 }
