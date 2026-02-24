@@ -791,9 +791,20 @@
       "bankroll": "$9848",
       "ror": "0.0%",
       "sharpe": "1.8"
+    },
+    {
+      "date": "2026-02-23 23:30",
+      "market": "ZachXBT exposes crypto insider trading by Q1 2026 (Yes)",
+      "betSize": "$1970",
+      "ev": "+7.0%",
+      "outcome": "Win",
+      "profit": "+$1060",
+      "bankroll": "$10908",
+      "ror": "2.0%",
+      "sharpe": "1.8"
     }
   ],
-  "winRate": 64,
+  "winRate": 65,
   "bankrollHistory": [
     500,
     532,
@@ -867,6 +878,7 @@
     9616,
     8885,
     8272,
-    9848
+    9848,
+    10908
   ]
 }
