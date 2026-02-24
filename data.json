@@ -835,9 +835,31 @@
       "bankroll": "$18915",
       "ror": "0.3%",
       "sharpe": "1.9"
+    },
+    {
+      "date": "2026-02-24 05:30",
+      "market": "Democratic Nominee 2028 - Gavin Newsom",
+      "betSize": "$3367",
+      "ev": "+13.0%",
+      "outcome": "Loss",
+      "profit": "-$3367",
+      "bankroll": "$15548",
+      "ror": "1.2%",
+      "sharpe": "1.6"
+    },
+    {
+      "date": "2026-02-24 07:00",
+      "market": "Bitcoin > $100k before July 2026",
+      "betSize": "$864",
+      "ev": "+5.0%",
+      "outcome": "Win",
+      "profit": "+$707",
+      "bankroll": "$16255",
+      "ror": "0.0%",
+      "sharpe": "1.8"
     }
   ],
-  "winRate": 66,
+  "winRate": 65,
   "bankrollHistory": [
     500,
     532,
@@ -915,6 +937,8 @@
     10908,
     12682,
     17743,
-    18915
+    18915,
+    15548,
+    16255
   ]
 }
