@@ -747,6 +747,17 @@
       "bankroll": "$8586",
       "ror": "0.2%",
       "sharpe": "1.8"
+    },
+    {
+      "date": "2026-02-23 19:30",
+      "market": "US strikes Iran by March 31, 2026 (No)",
+      "betSize": "$618",
+      "ev": "+12.0%",
+      "outcome": "Win",
+      "profit": "$+1030",
+      "bankroll": "$9616",
+      "ror": "0.0%",
+      "sharpe": "1.8"
     }
   ],
   "winRate": 65,
@@ -819,6 +830,7 @@
     6886,
     6250,
     9791,
-    8586
+    8586,
+    9616
   ]
 }
