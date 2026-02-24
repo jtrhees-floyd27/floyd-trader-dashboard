@@ -901,6 +901,39 @@
       "bankroll": "$17581",
       "ror": "0.0%",
       "sharpe": "1.8"
+    },
+    {
+      "date": "2026-02-24 11:00",
+      "market": "ZachXBT exposes Meteora",
+      "betSize": "$2514",
+      "ev": "+33.3%",
+      "outcome": "Win",
+      "profit": "+$5866",
+      "bankroll": "$23447",
+      "ror": "0.0%",
+      "sharpe": "1.8"
+    },
+    {
+      "date": "2026-02-24 11:30",
+      "market": "Supreme Court vacancy in 2026?",
+      "betSize": "$5861",
+      "ev": "+9.1%",
+      "outcome": "Win",
+      "profit": "+$4795",
+      "bankroll": "$28242",
+      "ror": "5.0%",
+      "sharpe": "1.8"
+    },
+    {
+      "date": "2026-02-24 11:30",
+      "market": "Supreme Court vacancy in 2026?",
+      "betSize": "$6920",
+      "ev": "+9.1%",
+      "outcome": "Loss",
+      "profit": "-$6920",
+      "bankroll": "$21321",
+      "ror": "5.0%",
+      "sharpe": "1.8"
     }
   ],
   "winRate": 66,
@@ -987,6 +1020,9 @@
     16991,
     14066,
     15471,
-    17581
+    17581,
+    23447,
+    28242,
+    21321
   ]
 }
