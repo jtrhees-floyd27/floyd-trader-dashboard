@@ -802,6 +802,17 @@
       "bankroll": "$10908",
       "ror": "2.0%",
       "sharpe": "1.8"
+    },
+    {
+      "date": "2026-02-24 01:30",
+      "market": "ZachXBT exposes Meteora as insider trader",
+      "betSize": "$1339",
+      "ev": "+7.0%",
+      "outcome": "Win",
+      "profit": "+$1774",
+      "bankroll": "$12682",
+      "ror": "0.0%",
+      "sharpe": "1.8"
     }
   ],
   "winRate": 65,
@@ -879,6 +890,7 @@
     8885,
     8272,
     9848,
-    10908
+    10908,
+    12682
   ]
 }
