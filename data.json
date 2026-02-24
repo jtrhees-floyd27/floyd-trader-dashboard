@@ -945,6 +945,17 @@
       "bankroll": "$22286",
       "ror": "1.0%",
       "sharpe": "1.8"
+    },
+    {
+      "date": "2026-02-24 12:30",
+      "market": "Supreme Court vacancy in 2026? (Yes)",
+      "betSize": "$1211",
+      "ev": "+9.3%",
+      "outcome": "Loss",
+      "profit": "-1211",
+      "bankroll": "$21075",
+      "ror": "0.0%",
+      "sharpe": "1.8"
     }
   ],
   "winRate": 66,
@@ -1035,6 +1046,7 @@
     23447,
     28242,
     21321,
-    22286
+    22286,
+    21075
   ]
 }
