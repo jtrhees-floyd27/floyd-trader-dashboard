@@ -219,9 +219,20 @@
       "bankroll": "$43925",
       "ror": "1.2%",
       "sharpe": "1.6"
+    },
+    {
+      "date": "2026-02-25 04:30",
+      "market": "Democrats Sweep 2026 Midterms",
+      "betSize": "$3350",
+      "ev": "+9%",
+      "outcome": "Win",
+      "profit": "+$4821",
+      "bankroll": "$48746",
+      "ror": "0%",
+      "sharpe": "1.6"
     }
   ],
-  "winRate": 60,
+  "winRate": 61,
   "bankrollHistory": [
     10500,
     9000,
@@ -242,6 +253,7 @@
     37891,
     34102,
     36588,
-    43925
+    43925,
+    48746
   ]
 }
